@@ -1,3 +1,3 @@
 # Fedora
-[Fedora offical](https://getfedora.org/ru/)
+[Fedora offical\n](https://getfedora.org/ru/)
 [Nobara Project](https://nobaraproject.org/)
